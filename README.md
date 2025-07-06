@@ -1,6 +1,6 @@
 # Sylvia-Data-Portfolio
 
-## About Me
+## About Me 
 Graduate student in Education Policy with a passion for using data to improve educational outcomes. I combine domain expertise in education with technical skills in R, Python, and SQL to generate actionable insights for educational institutions and policymakers.
 
 ## Technical Skills
