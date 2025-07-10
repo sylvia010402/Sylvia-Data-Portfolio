@@ -5,9 +5,9 @@
 ## About Me
 
 
-👋Hi, I’m Sylvia. I’m a graduate student in Education Policy Analysis at the Harvard Graduate School of Education. With a background in economics and a growing skill set in data science, I’m exploring how we can use data not just to describe education systems, but to challenge assumptions, ask sharper questions, and shape better decisions.
+👋 Hi, I’m Sylvia. I’m a graduate student in Education Policy Analysis at the Harvard Graduate School of Education. With a background in economics and a growing skill set in data science, I’m exploring how we can use data not just to describe education systems, but to challenge assumptions, ask sharper questions, and shape better decisions.
 
-I bring a unique perspective to education-focused data analytics in using data to investigate problems I care about: student well-being, equity in school funding, digital learning, and school climate. Each project here represents a new learning curve for me—from deep learning and predictive modeling to scraping enrollment patterns and building policy-relevant dashboards.
+I bring a unique perspective to education-focused data analytics in using data to investigate problems I care about: student well-being, equity in school funding, digital learning, and school climate. Each project here represents a new learning curve for me, from deep learning and predictive modeling to scraping enrollment patterns and building policy-relevant dashboards.
 
 This portfolio is a snapshot of what I’ve built so far. But more importantly, it’s a reflection of how I think, what I value, and how I approach complex questions with empathy and structure. I’m actively seeking data analyst roles in education research, EdTech, or nonprofit analytics, where I can grow while contributing to meaningful work.
 
@@ -19,7 +19,7 @@ This portfolio is a snapshot of what I’ve built so far. But more importantly, 
 
 ### 1. [Making Caring Common – Student Bullying Risk Prediction](https://github.com/sylvia010402/student-bullying-prediction)
 
-Using survey data from Harvard’s Making Caring Common initiative, I developed a risk classification system to identify students vulnerable to bullying. Key features included perceptions of safety, belonging, and discrimination—helping educators direct support where it’s needed most.
+Using survey data from Harvard’s Making Caring Common initiative, I developed a risk classification system to identify students vulnerable to bullying. Key features included perceptions of safety, belonging, and discrimination, helping educators direct support where it’s needed most.
 
 **Business Impact**: Early-warning system to support student safety and school climate initiatives  
 **Dataset**: 8,366 student responses, 195 features  
