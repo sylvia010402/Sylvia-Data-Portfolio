@@ -5,7 +5,7 @@
 ## About Me
 
 
-Hi, I’m Sylvia. I’m a graduate student in Education Policy Analysis at the Harvard Graduate School of Education. With a background in economics and a growing skill set in data science, I’m exploring how we can use data not just to describe education systems, but to challenge assumptions, ask sharper questions, and shape better decisions.
+👋Hi, I’m Sylvia. I’m a graduate student in Education Policy Analysis at the Harvard Graduate School of Education. With a background in economics and a growing skill set in data science, I’m exploring how we can use data not just to describe education systems, but to challenge assumptions, ask sharper questions, and shape better decisions.
 
 I bring a unique perspective to education-focused data analytics in using data to investigate problems I care about: student well-being, equity in school funding, digital learning, and school climate. Each project here represents a new learning curve for me—from deep learning and predictive modeling to scraping enrollment patterns and building policy-relevant dashboards.
 
