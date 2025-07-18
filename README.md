@@ -46,7 +46,7 @@ I explored what separates students who finish MOOCs from those who drop out by t
 
 ### 4. [Tracking Demographics in Somerville Schools: Two Decades of Change](https://github.com/sylvia010402/somerville-school-web-scraping) 
 
-This web scraping and visualization project traces how school demographics shifted in one Massachusetts city known for its school choice policies. Inspired by a case I studied in class, I analyzed patterns in diversity, equity, and parental choice over 20 years.
+This web scraping and visualization project traces how school demographics shifted in one Massachusetts city known for its school choice policies. Inspired by a case I studied in class, I analyzed patterns in diversity, equity, and parental choice over 20 years. I organized the data scraped into a [Tableau dashboard](https://public.tableau.com/app/profile/leyan.li/viz/SomervilleSchool/Dashboard1) for interactive visualizations.
 
 **Business Impact**: Helps districts evaluate choice policies and equity outcomes  
 **Dataset**: Somerville School District enrollment reports (web scraped)  
