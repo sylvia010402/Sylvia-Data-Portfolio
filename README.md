@@ -26,7 +26,7 @@ I built this project to explore how AI can proactively support students before t
 **Skills**: Python, LSTM modeling, Recommendation Systems, Data Simulation, Educational Analytics
 
 
-### 1. [Making Caring Common – Student Bullying Risk Prediction](https://github.com/sylvia010402/student-bullying-prediction)
+### 2. [Making Caring Common – Student Bullying Risk Prediction](https://github.com/sylvia010402/student-bullying-prediction)
 
 Using survey data from Harvard’s Making Caring Common initiative, I developed a risk classification system to identify students vulnerable to bullying. Key features included perceptions of safety, belonging, and discrimination, helping educators direct support where it’s needed most.
 
@@ -35,7 +35,7 @@ Using survey data from Harvard’s Making Caring Common initiative, I developed 
 **Skills**: R, Machine Learning
 
 
-### 2. [School Funding vs. Socioeconomic Status: What Really Drives Student Achievement?](https://github.com/sylvia010402/school-funding-effectiveness)
+### 3. [School Funding vs. Socioeconomic Status: What Really Drives Student Achievement?](https://github.com/sylvia010402/school-funding-effectiveness)
 
 This project investigates how per-pupil spending and district-level SES interact to shape academic outcomes. I used multilevel modeling to explore whether spending impacts are more pronounced in lower-SES districts, providing insights relevant for policy advocates and education finance reform.
 
@@ -44,7 +44,7 @@ This project investigates how per-pupil spending and district-level SES interact
 **Skills**: R (lme4, dplyr, ggplot2), data wrangling, multilevel modelling (random intercept)
 
 
-### 3. [Predicting Success in Online Learning: What Makes Students Complete MOOCs?](https://github.com/sylvia010402/predicting-success-in-online-learning)
+### 4. [Predicting Success in Online Learning: What Makes Students Complete MOOCs?](https://github.com/sylvia010402/predicting-success-in-online-learning)
 
 I explored what separates students who finish MOOCs from those who drop out by testing six machine learning models. Random Forest performed best, identifying certificate earners with an F1 score of 0.737. This work reflects my interest in understanding learner behavior in online environments.
 
@@ -53,7 +53,7 @@ I explored what separates students who finish MOOCs from those who drop out by t
 **Skills**: Python (scikit-learn, matplotlib, seaborn, xgboost), R, machine learning
 
 
-### 4. [Tracking Demographics in Somerville Schools: Two Decades of Change](https://github.com/sylvia010402/somerville-school-web-scraping) 
+### 5. [Tracking Demographics in Somerville Schools: Two Decades of Change](https://github.com/sylvia010402/somerville-school-web-scraping) 
 
 This web scraping and visualization project traces how school demographics shifted in one Massachusetts city known for its school choice policies. Inspired by a case I studied in class, I analyzed patterns in diversity, equity, and parental choice over 20 years. I organized the data scraped into a [Tableau dashboard](https://public.tableau.com/app/profile/leyan.li/viz/SomervilleSchool/Dashboard1) for interactive visualizations.
 
@@ -62,7 +62,7 @@ This web scraping and visualization project traces how school demographics shift
 **Skills**: R (rvest, xml2, tidyverse), data visualizations
 
 
-### 5. [Facial Emotion Recognition for Mental Health Awareness in Education](https://github.com/sylvia010402/deep-learning-on-facial-emotion-detection)
+### 6. [Facial Emotion Recognition for Mental Health Awareness in Education](https://github.com/sylvia010402/deep-learning-on-facial-emotion-detection)
 
 Using deep learning and facial recognition, this project aims to support educators in understanding students’ emotional states in digital classrooms—where non-verbal cues are often lost. By building and evaluating three convolutional models, I explored how real-time emotion detection could power early mental health alerts or responsive teaching tools.
 
@@ -74,5 +74,5 @@ Using deep learning and facial recognition, this project aims to support educato
 
 ## Contact
 
-**Email**: sylvialileyan@outlook.com  
+**Email**: sylvialileyan@gmail.com  
 **LinkedIn**: [linkedin.com/in/sylvia-leyan-li](https://www.linkedin.com/in/sylvia-leyan-li/)
