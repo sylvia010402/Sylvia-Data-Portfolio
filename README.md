@@ -19,13 +19,12 @@ This portfolio is a snapshot of what I’ve built so far. But more importantly, 
 
 ### 1. [Canvas LMS Predictive Analytics: AI-Powered Student Success](https://github.com/sylvia010402/Canvas-Predictive-Analytics-Using-AI/tree/main?tab=readme-ov-file#canvas-lms-predictive-analytics-ai-powered-student-success)
 Can AI prevent course dropouts by predicting student struggles 4 weeks in advance? This project answers with a resounding **YES**.
-I built this project to explore how AI can proactively support students before they fall behind. I simulated Canvas LMS data, then developed an LSTM-based predictive model to identify at-risk students weeks in advance. I then built a recommendation system that delivers personalized, actionable feedback, helping students, instructors, and advisors intervene early and improve course outcomes. Finally, I visulized the simulated dataset into [Interactive Dashboards](https://public.tableau.com/app/profile/leyan.li/vizzes) in Tableau for visualizing student performances and model effectuveness. 
+I built this project to explore how AI can proactively support students before they fall behind. I simulated Canvas LMS (Learning Management System) data, then developed an LSTM-based predictive model to identify at-risk students weeks in advance. I then built a recommendation system that delivers personalized, actionable feedback, helping students, instructors, and advisors intervene early and improve course outcomes. Finally, I visulized the simulated dataset into [Interactive Dashboards](https://public.tableau.com/app/profile/leyan.li/vizzes) in Tableau for visualizing student performances and model effectuveness. 
 
-**Business Impact**: Proactive intervention system to reduce student dropouts and improve academic performance 
 
-**Dataset**: Simulated Canvas LMS data with 2,000 students, 16 weeks of engagement, 40,000 labeled examples 
-
-**Skills**: Python, LSTM modeling, Recommendation Systems, Data Simulation, Educational Analytics 
+**Business Impact**: Proactive intervention system to reduce student dropouts and improve academic performance  
+**Dataset**: Simulated Canvas LMS data with 2,000 students, 16 weeks of engagement, 40,000 labeled examples   
+**Skills**: Python, Machine Learning, Recommendation Systems, Data Simulation, Educational Analytics
 
 
 ### 2. [Making Caring Common – Student Bullying Risk Prediction](https://github.com/sylvia010402/student-bullying-prediction)
